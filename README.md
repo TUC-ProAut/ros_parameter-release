@@ -1,3 +1,26 @@
+## parameter_pa (melodic) - 1.2.3-1
+
+The packages in the `parameter_pa` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic parameter_pa --edit` on `Tue, 08 Jun 2021 08:32:10 -0000`
+
+The `parameter_pa` package was released.
+
+Version of package(s) in repository `parameter_pa`:
+
+- upstream repository: https://github.com/TUC-ProAut/ros_parameter.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## parameter_pa (lunar) - 1.2.1-0
 
 The packages in the `parameter_pa` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar parameter_pa` on `Tue, 19 Dec 2017 15:33:38 -0000`
