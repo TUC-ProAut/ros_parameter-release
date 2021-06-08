@@ -1,0 +1,12 @@
+Source: ros-melodic-parameter-pa
+Section: misc
+Priority: optional
+Maintainer: Peter Weissig <wepet@hrz.tu-chemnitz.de>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-melodic-catkin, ros-melodic-cmake-modules, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-roslib
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-parameter-pa
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-melodic-cmake-modules, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-roslib
+Description: ProAut parameter package
